@@ -7,6 +7,12 @@ Designer UX/UI et graphique, ma pratique est orientée vers le numérique éthiq
 - Kirby
 - JavaScript
 
+- ## Logiciels
+- Figma
+- Photoshop
+- Illustrator
+- Indesign
+
 ## Projets récents
 - **Bennes solidaires** : Bennes solidaires est un projet de design de services, entièrement conçu dans le cadre de mon projet de certification (charte graphique, design UI/UX, développement avec Symfony et JavaScript. Celui-ci est en développement.
 - **La Friche Artistique Lamartine** : Projet de refonte du site internet de La Friche Lamartine, dans le cadre d'un stage encadré par Gaëtan Thirion.
