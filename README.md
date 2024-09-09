@@ -1,6 +1,6 @@
 # Bonjour, je suis Manon Caffin 👋
 
-Designer graphique et d'espace spécialisée dans l'écologie, j'ai choisi d'orienter ma pratique vers le numérique éthique et responsable.
+Designer graphique et d'espace, ma pratique est orientée vers le numérique éthique et responsable.
 
 ## Technologies utilisées
 - Symfony
