@@ -7,7 +7,7 @@ Designer UX/UI et graphique, ma pratique est orientée vers le numérique éthiq
 - Kirby
 - JavaScript
 
-- ## Logiciels
+## Logiciels
 - Figma
 - Photoshop
 - Illustrator
