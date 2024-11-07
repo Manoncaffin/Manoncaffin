@@ -19,4 +19,4 @@ Designer UX/UI et graphique, ma pratique est orientée vers le numérique éthiq
 
 ## Me contacter
 - [LinkedIn](https://www.linkedin.com/in/manoncaffin)
-- [Email](manon.caffin@protonmail.com)
+- [Email](caffinmanon@gmail.com)
