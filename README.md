@@ -1,6 +1,6 @@
 # Bonjour, je suis Manon Caffin 👋
 
-Designer et développeuse, ma pratique est orientée vers le numérique éthique et responsable.
+Designeuse et développeuse, ma pratique est orientée vers le numérique éthique et responsable.
 
 ## Technologies utilisées
 - Symfony
@@ -14,9 +14,10 @@ Designer et développeuse, ma pratique est orientée vers le numérique éthique
 - Indesign
 
 ## Projets récents
-- **Bennes solidaires** : Bennes solidaires est un projet de design de services, entièrement conçu dans le cadre de mon projet de certification (charte graphique, design UI/UX, développement avec Symfony et JavaScript. Celui-ci est en développement.
-- **La Friche Artistique Lamartine** : Projet de refonte du site internet de La Friche Lamartine, dans le cadre d'un stage encadré par Gaëtan Thirion.
+- **Pierre Medurio, photographe** : Projet de conception et de développement, 2025.
+- **La Maison du print** : Projet de conception et de développement, 2025.
+- **La Friche Artistique Lamartine** : Projet de refonte du site internet de La Friche Lamartine, dans le cadre d'un stage encadré par Gaëtan Thirion, 2024.
 
 ## Me contacter
 - [LinkedIn](https://www.linkedin.com/in/manoncaffin)
-- [Email](caffinmanon@gmail.com)
+- [Email](manon.caffin@protonmail.com)
